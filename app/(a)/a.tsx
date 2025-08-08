@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function A() {
   return (
     <View>
-      <Text style={styles.headerImage}>aaaaa</Text>
+      <Text style={styles.headerImage}>aaaaabbbbbb</Text>
     </View>
   );
 }
